@@ -6,7 +6,7 @@ import time
 import sys
 
 MYCROFT_VERSION = True
-TEST_IMAGE_PATH = '/opt/mycroft/skills/easy-shopping-skill.alfredpradeepkumar/testPhoto/1.jpeg'
+TEST_IMAGE_PATH = '/home/ai-user/mycroft-core/skills/easy-shopping-skill.alfredpradeepkumar/testPhoto/1.jpeg'
 if MYCROFT_VERSION:
     from mycroft.util import LOG
     from .util import callAPI, encode_image_from_file
