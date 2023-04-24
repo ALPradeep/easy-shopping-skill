@@ -18,5 +18,5 @@ Daily
 IoT
 
 ## Tags
-#Blind shopping
+#shopping
 
