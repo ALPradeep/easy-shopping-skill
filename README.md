@@ -10,7 +10,7 @@ Help the blind to shop by tell them what goods they're showing in the picture
 * "Any goods"
 
 ## Credits
-AlfredPradeepKumar
+Alfred Pradeep Kumar
 
 ## Category
 **Productivity**
