@@ -2,7 +2,7 @@
 Help those who can't see to shop
 
 ## About
-Help the blind to shop by tell them what goods they're showing in the picture
+Help the blind to shop by telling them what goods they're showing in the picture
 
 ## Examples
 * "View goods"
